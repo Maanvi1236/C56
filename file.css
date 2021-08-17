@@ -1,0 +1,34 @@
+body {
+    background-color: black;
+
+}
+
+h1 {
+    color: aliceblue;
+
+}
+
+h4 {
+    color: antiquewhite;
+
+}
+
+span {
+    color: aliceblue;
+    padding-left: 80px;
+    padding-right: 80px;
+}
+
+img {
+    height: 200px;
+    width: 250px;
+    border-color: aliceblue;
+    border-style: double;
+}
+
+button {
+    border: 6px sandybrown solid;
+    padding: 10px;
+    font-size: 15px;
+    border-style: double;
+}
